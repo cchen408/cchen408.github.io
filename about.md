@@ -6,7 +6,9 @@ permalink: /about/
 
 *Nodejs Developer, Blockchain enthusiast*
 
-## Node Infra projects
+https://twitter.com/calanthiamei/status/999758920527757313
+
+## PayPal
 
 I am the lead developer on the PayPal Node.js Infra team. I am proud to be part of the core infrastructure team, that helped drive Node.js adoption at companies like `PayPal` and `eBay`. I am one of the active maintainers of the `krakenjs` and `swaggerize` open source projects.
 
