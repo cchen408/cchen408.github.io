@@ -29,4 +29,4 @@ repository: cchen408/cchen408.github.io
 markdown: kramdown
 #theme: minima
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
